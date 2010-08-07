@@ -1,0 +1,28 @@
+wp-pop3-authen
+
+This WordPress plugin allows the use of a POP3 server for authentication.
+
+How to use
+
+Create WordPress accounts that match the names of your POP3 accounts.
+The passwords don't have to match since they will not be passed to
+the POP3 server. Only the users you create in WordPress will be
+able to log in, except for the "admin" user which will still be
+authenticated by WordPress.
+
+
+INSTALLATION
+
+1. Upload the folder named wp-pop3-authen to the wp-content/plugins folder.
+2. Set the POP3 server address and port in wp-pop3-authen.php.
+3. Activate the plugin on the Plugins screen.
+
+Note: This plugin has only been tested with WordPress 2.7 and 2.8
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 Sherwin Daganato
+
+This program is released under the GNU General Public License,
+version 2 or later.
