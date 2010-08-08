@@ -4,11 +4,11 @@ This WordPress plugin allows the use of a POP3 server for authentication.
 
 How to use
 
-Create WordPress accounts that match the names of your POP3 accounts.
-The passwords don't have to match since they will not be passed to
-the POP3 server. Only the users you create in WordPress will be
-able to log in, except for the "admin" user which will still be
-authenticated by WordPress.
+Create WordPress accounts with the same usernames as your POP3
+accounts. The passwords can be anything since they will not be
+passed to the POP3 server. Only the users you create in WordPress
+will be able to log in. The "admin" user will still be authenticated
+by WordPress.
 
 
 INSTALLATION
