@@ -13,11 +13,11 @@ by WordPress.
 
 INSTALLATION
 
-1. Upload the folder named wp-pop3-authen to the wp-content/plugins folder.
+1. Upload the wp-pop3-authen directory to the wp-content/plugins directory.
 2. Set the POP3 server address and port in wp-pop3-authen.php.
-3. Activate the plugin on the Plugins screen.
+3. Activate the plugin on the Plugins Management page.
 
-Note: This plugin has only been tested with WordPress 2.7 and 2.8
+Note: This plugin has only been tested with WordPress 2.7, 2.8, and 3.0
 
 
 COPYRIGHT AND LICENSE

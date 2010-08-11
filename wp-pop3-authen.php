@@ -3,7 +3,7 @@
 Plugin Name: POP3 Authentication
 Version: 0.1
 Plugin URI: http://corps.i.ph/
-Description: A wordpress plugin that allows the use of a POP3 server for authentication. For Wordpress 2.7/2.8
+Description: A wordpress plugin that allows the use of a POP3 server for authentication.
 Author: Sherwin Daganato
 Author URI: http://corps.i.ph/
 */
